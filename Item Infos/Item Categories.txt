@@ -1,0 +1,1 @@
+Hair,Face,Top,Pants,Shoes,Melee,Rifle,Shotgun,Sniper,Minigun,Bazooka,Grenade,Set,Accessories

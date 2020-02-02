@@ -1,0 +1,867 @@
+[
+
+    {
+        "id":6150,
+        "name": "Red Drawing Pencil",
+        "price_c": 5300,
+        "price_p": 20000,
+        "type":"Melee",
+        "description":"Red pencil for coloring your enemies.",
+		"power":840,
+		"range":720,
+		"run_speed":700,
+		"secondary_power":2100,
+    "rarity":1
+    },
+	{
+	    "id":6290,
+        "name": "Slappy Hand",
+        "price_c": 8300,
+        "price_p": -1,
+        "type":"Melee",
+        "description":"When you need something to hit someone with.",
+		"power":800,
+		"range":720,
+		"run_speed":700,
+		"secondary_power":2000,
+    "rarity":1
+	},
+
+
+	{
+	    "id":5157,
+        "name": "White-Pepper",
+        "price_c": 8300,
+        "price_p": 20000,
+        "type":"Rifle",
+        "description":"Pepper your enemies with rapid fire before they even know what hit them.",
+        "power":331,
+        "firing_rate":1000,
+		"acurracy":860,
+        "reload_speed":500,
+        "weapon_bullets":40,
+        "bullets_max":80,
+        "rarity":1
+	},
+
+	{
+		"id":5047,
+        "name": "Lollipop Rifle",
+        "price_c": 8300,
+        "price_p": -1,
+        "type":"Rifle",
+        "description":"The sweetest rifle in the game.",
+        "power":331,
+        "firing_rate":1000,
+		"acurracy":860,
+        "reload_speed":500,
+        "weapon_bullets":40,
+        "bullets_max":80,
+        "rarity":1
+	},
+
+
+	{
+	    "id":5164,
+        "name": "White KW-79",
+        "price_c": 8300,
+        "price_p": 20000,
+        "type":"Shotgun",
+        "description":"The white shotgun",
+        "power":759,
+		"firing_rate":475,
+		"acurracy":480,
+        "reload_speed":325,
+        "weapon_bullets":3,
+        "bullets_max":6,
+        "rarity":1
+	},
+
+	{
+		"id":5752,
+	    "name": "White whisper",
+        "price_c": 8300,
+        "price_p": -1,
+        "type":"Shotgun",
+        "description":"The white whisper",
+        "power":759,
+		"firing_rate":475,
+		"acurracy":480,
+        "reload_speed":325,
+        "weapon_bullets":2,
+        "bullets_max":9,
+        "rarity":1
+	},
+
+
+
+    {
+        "id":5156,
+        "name": "White Sniper",
+        "price_c": 8300,
+        "price_p": 20000,
+        "type":"Sniper",
+        "description":"Headshot!.",
+        "power":2020,
+        "firing_rate":5,
+        "zoom_speed":550,
+        "reload_speed":500,
+        "weapon_bullets":1,
+        "bullets_max":8,
+        "rarity":1
+    },
+
+	{
+	    "id":5353,
+        "name": "Pirate Sniper",
+        "price_c": 8300,
+        "price_p": -1,
+        "type":"Sniper",
+        "description":"Pirate Sniper.",
+        "power":2020,
+        "firing_rate":5,
+        "zoom_speed":550,
+        "reload_speed":500,
+        "weapon_bullets":1,
+        "bullets_max":8,
+        "rarity":1
+	},
+
+
+
+	{
+		"id":5135,
+        "name": "White DareDev",
+        "price_c": 8300,
+        "price_p": 20000,
+        "type":"Minigun",
+        "description":"The Minigun.",
+        "power":700,
+		"warm_up_time":819,
+		"run_speed":570,
+        "weapon_bullets":150,
+        "rarity":1
+	},
+
+
+
+	{
+	    "id":6915,
+        "name": "Rook",
+        "price_c": 8300,
+        "price_p": 20000,
+        "type":"Bazooka",
+        "description":"Destroy your enemies.",
+        "power":868,
+        "firing_rate":385,
+        "blast_radius":330,
+        "bullet_speed":305,
+        "weapon_bullets":3,
+        "bullets_max":6,
+        "rarity":1
+	},
+
+
+
+	{
+		 "id":6801,
+        "name": "Grenade Boll",
+        "price_c": 8300,
+        "price_p": 20000,
+        "type":"Grenade",
+        "description":"The Boll.",
+        "power":807,
+        "firing_rate":765,
+        "blast_radius":385,
+		"reload_speed":500,
+        "weapon_bullets":3,
+        "bullets_max":6,
+        "rarity":1
+	},
+
+
+
+  {
+    "id": 5201,
+    "name": "Witch's Hat",
+    "price_c": -1,
+    "price_p": 6000,
+    "type": "Hair",
+    "description": "amazing hair",
+    "explosion_armor": 0.07,
+    "bullet_armor": 0.05,
+    "rarity":1
+  },
+
+
+	{
+        "id":5192,
+        "name": "Red Gangster Shirt",
+        "price_c":-1,
+        "price_p":12000,
+        "type":"Top",
+        "description":"amazing shirt",
+        "move_speed":0.04,
+        "rarity":1
+	},
+
+
+	{
+		"id":5198,
+        "name": "Witch's Pants",
+        "price_c":-1,
+        "price_p":6000,
+        "type":"Pants",
+        "description":"amazing pants",
+        "move_speed":0.04,
+        "rarity":1
+	},
+
+
+
+	{
+		"id":6945,
+        "name": "Militar shoes",
+        "price_c":-1,
+        "price_p":6000,
+        "type":"Shoes",
+        "description":"amazing shoes",
+        "move_speed":0.02,
+        "rarity":1
+	},
+
+
+
+    {
+        "id":5001,
+            "name": "Red Crusader Pack",
+            "price_c": 692,
+            "price_p": 3500,
+            "type":"Set",
+            "description":"Unpack to get the coolest red set ever",
+            "explosion_armor":0.07,
+            "bullet_armor":0.05,
+            "move_speed":0.02,
+            "rarity":1
+    },
+
+
+
+  {
+    "id": 5002,
+    "name": "Skater Hat",
+    "price_c": 10000,
+    "price_p": 30000,
+    "type": "Hair",
+    "description": "Naomi's going skating",
+    "explosion_armor": 0.01,
+    "bullet_armor": 0.015,
+    "rarity":1
+
+  },
+
+
+
+    {
+        "id":5003,
+            "name": "Camper Boots",
+            "price_c": 3000,
+            "price_p": 15000,
+            "type":"Shoes",
+            "description":"Great when wandering the woods!",
+            "move_speed":0.02,
+            "rarity":1
+    },
+
+
+
+{
+    "id":5004,
+        "name": "White Bell Socks",
+        "price_c": 4500,
+        "price_p": 20000,
+        "type":"Pants",
+        "description":"Cling clang Naomi's here",
+        "move_speed":0.02,
+        "rarity":1
+},
+
+
+
+{
+    "id":5005,
+        "name": "Black Plastic Hands",
+        "price_c": 1500,
+        "price_p": 6500,
+        "type":"Hands",
+        "description":"Precision of a surgeon",
+        "move_speed":0.015,
+        "rarity":1
+},
+
+
+
+  {
+    "id": 5006,
+    "name": "Shaten Hair",
+    "price_c": 800,
+    "price_p": 2500,
+    "type": "Hair",
+    "description": "Classy but sexy",
+    "explosion_armor": 0.01,
+    "bullet_armor": 0.015,
+    "rarity":1
+
+  },
+
+
+
+{
+    "id":5007,
+        "name": "Yellow Ribbon",
+        "price_c": 10000,
+        "price_p": 30000,
+        "type":"Accesories",
+        "description":"Random Description",
+        "shotgun_bullets":9,
+        "rarity":1
+},
+
+
+
+  {
+    "id": 5008,
+    "name": "Straightened Hair",
+    "price_c": 1500,
+    "price_p": 7000,
+    "type": "Hair",
+    "description": "That's what the hair looks like after going to the saloon",
+    "explosion_armor": 0.01,
+    "bullet_armor": 0.015,
+    "rarity":1
+  },
+
+
+
+  {
+    "id": 5009,
+    "name": "Cyclops Face",
+    "price_c": 4000,
+    "price_p": 20000,
+    "type": "Face",
+    "description": "Mad Knox ready to go on a spree",
+    "explosion_armor": 0.01,
+    "bullet_armor": 0.015,
+    "rarity":1
+  },
+
+
+
+{
+    "id":5010,
+        "name": "Binoculars",
+        "price_c": 2500,
+        "price_p": 10000,
+        "type":"Accesories",
+        "description":"So you can see far, far away",
+        "grenades_bullets":9,
+        "rarity":1
+},
+
+
+
+{
+    "id":5011,
+        "name": "Tank top",
+        "price_c": 9000,
+        "price_p": 25000,
+        "type":"Top",
+        "description":"I'm ready for war! Bring it on suckers",
+        "move_speed":0.02,
+        "rarity":1
+},
+
+
+
+  {
+    "id": 5012,
+    "name": "Fries Knox",
+    "price_c": 8000,
+    "price_p": 24000,
+    "type": "Set",
+    "description": "McDonald's is always open for a ride! Wanna join?",
+    "explosion_armor": 0.07,
+    "bullet_armor": 0.05,
+    "move_speed": 0.12,
+    "rarity":1
+  },
+
+
+
+{
+    "id":5013,
+    "name": "Denmark Ball",
+    "price_c": 5000,
+    "price_p": 25000,
+    "type":"Accesories",
+    "description":"Hooray to the northerns!",
+    "gatling_bullets":150,
+    "rarity":1
+},
+
+
+
+{
+    "id":5014,
+        "name": "Denmark Ball",
+        "price_c": 5000,
+        "price_p": 25000,
+        "type":"Accesories",
+        "description":"Hooray to the northerns!",
+        "grenades_bullets":9,
+        "rarity":1
+},
+
+
+
+{
+    "id":5015,
+        "name": "Battery Legs",
+        "price_c": 5000,
+        "price_p": 17800,
+        "type":"Pants",
+        "description":"Gets you charged up",
+        "move_speed":0.06,
+        "rarity":1
+},
+
+
+
+{
+    "id":5016,
+        "name": "Classroom top",
+        "price_c": 5000,
+        "price_p": 20000,
+        "type":"Top",
+        "description":"Something you'd wear at school",
+        "move_speed":0.00,
+        "rarity":1
+},
+
+
+
+{
+    "id":5017,
+        "name": "Pirate Garment",
+        "price_c": 8700,
+        "price_p": 25000,
+        "type":"Top",
+        "description":"Did you know naomi was once a pirate?",
+        "move_speed":0.06,
+        "rarity":1
+},
+
+
+
+{
+    "id":5018,
+        "name": "Pointy boots",
+        "price_c": 3000,
+        "price_p": 12000,
+        "type":"Shoes",
+        "description":"Hey, watch out where you point those!",
+        "move_speed":0.02,
+        "rarity":1
+},
+
+
+
+{
+    "id":5019,
+        "name": "Clear Hands",
+        "price_c": 1000,
+        "price_p": 8900,
+        "type":"Hands",
+        "description":"Just washed those",
+        "move_speed":0.015,
+        "rarity":1
+
+},
+
+
+
+{
+    "id":5020,
+        "name": "White miniskirt",
+        "price_c": 2000,
+        "price_p": 11000,
+        "type":"Pants",
+        "description":"Naughty naughty",
+        "rarity":1
+},
+
+
+
+{
+    "id":5021,
+      "name": "Desert top",
+      "price_c": 6500,
+      "price_p": 25000,
+      "type":"Top",
+      "description":"A bit hot for that, ain't it?",
+      "tank":260,
+      "rarity":1
+},
+
+
+
+{
+    "id":5022,
+        "name": "School shoes",
+        "price_c": 1500,
+        "price_p": 8000,
+        "type":"Shoes",
+        "description":"Gotta grab my school skirt too",
+        "tank":80,
+        "rarity":1
+},
+
+
+
+  {
+    "id": 5023,
+    "name": "Maid hair",
+    "price_c": 3400,
+    "price_p": 10000,
+    "type": "Hair",
+    "description": "Where's the baby?",
+    "explosion_armor": 0.02,
+    "bullet_armor": 0.01,
+    "rarity":1
+
+  },
+
+
+
+{
+    "id":5024,
+        "name": "Greem Forest wings",
+        "price_c": 5000,
+        "price_p": 20000,
+        "type":"Accesories",
+        "description":"Let's fly through the fairy forest",
+        "bazooka_bullets":9,
+        "rarity":1
+},
+
+
+
+  {
+    "id": 5025,
+    "name": "Yellow Welcome Hat",
+    "price_c": 5600,
+    "price_p": 12500,
+    "type": "Hair",
+    "description": "Please, after you, m'lady",
+    "explosion_armor": 0.02,
+    "bullet_armor": 0.01,
+    "rarity":1
+
+  },
+
+
+
+{
+    "id":5026,
+        "name": "School Pants",
+        "price_c": 2000,
+        "price_p": 10000,
+        "type":"Pants",
+        "description":"Pretty casual",
+        "rarity":1
+},
+
+
+
+{
+    "id":5027,
+        "name": "Star Mask",
+        "price_c": 1200,
+        "price_p": 6000,
+        "type":"Accesories",
+        "description":"Destined for greatness, look at the star!",
+        "shotgun_bullets":9,
+        "rarity":1
+},
+
+
+
+  {
+    "id": 5028,
+    "name": "Pirate Hat",
+    "price_c": 4500,
+    "price_p": 15000,
+    "type": "Hair",
+    "description": "Arrrrr!",
+    "explosion_armor": 0.02,
+    "bullet_armor": 0.01,
+    "rarity":1
+  },
+
+
+
+{
+    "id":5029,
+    "name": "White Firefly",
+    "price_c": 8800,
+    "price_p": 30000,
+    "type":"Minigun",
+    "description":"Random Description",
+    "power":700,
+    "warm_up_time":819,
+    "run_speed":570,
+    "weapon_bullets":150,
+    "rarity":1
+},
+
+
+
+{
+    "id":5030,
+        "name": "AUG-50",
+        "price_c": 8300,
+        "price_p": 20000,
+        "type":"Rifle",
+        "description":"Stellar power, decent accuracy",
+        "power":361,
+        "firing_rate":950,
+		"acurracy":830,
+        "reload_speed":500,
+        "weapon_bullets":50,
+        "bullets_max":100,
+        "rarity":1
+},
+
+
+
+{
+    "id":5031,
+        "name": "White Wrench",
+        "price_c": 10000,
+        "price_p": 30000,
+        "type":"Melee",
+        "description":"More like Mad Wrench, but white",
+        "power":840,
+    		"range":720,
+    		"run_speed":700,
+    		"secondary_power":2100,
+        "rarity":1
+},
+
+
+
+{
+    "id":5032,
+        "name": "Santa Garment",
+        "price_c": 7700,
+        "price_p": 21000,
+        "type":"Top",
+        "description":"Jingle bells, jingle bells!",
+        "tank":240,
+        "rarity":1
+},
+
+
+
+{
+    "id":5033,
+        "name": "Santa Gloves",
+        "price_c": 4500,
+        "price_p": 15000,
+        "type":"Hands",
+        "description":"Uhh, it's cold out here",
+        "tank":120,
+        "rarity":1
+},
+
+
+
+  {
+    "id": 5034,
+    "name": "Imber Ponytails",
+    "price_c": 4500,
+    "price_p": 1500,
+    "type": "Hair",
+    "description": "Random Description",
+    "explosion_armor": 0.07,
+    "bullet_armor": 0.05,
+    "rarity":1
+
+  },
+
+
+
+{
+    "id":5035,
+        "name": "White Ribbons",
+        "price_c": 7800,
+        "price_p": 17800,
+        "type":"Top",
+        "description":"Feeling fancy af",
+        "tank":240,
+        "rarity":1
+},
+
+
+
+{
+    "id":5036,
+        "name": "Creepy Stockings",
+        "price_c": 7800,
+        "price_p": 20000,
+        "type":"Pants",
+        "description":"Yikes, creepy",
+        "tank":160,
+        "rarity":1
+},
+
+
+
+  {
+    "id": 5037,
+    "name": "Anime look",
+    "price_c": 4500,
+    "price_p": 17500,
+    "type": "Face",
+    "description": "Watch all the weebs go wild",
+    "explosion_armor": 0.07,
+    "bullet_armor": 0.05,
+    "rarity":1
+
+  },
+
+
+
+{
+    "id":5038,
+        "name": "Mouse Pendant",
+        "price_c": 3400,
+        "price_p": 15000,
+        "type":"Accesories",
+        "description":"Will eat all of your cheese",
+        "grenades_bullets":9,
+        "rarity":1
+},
+
+
+
+{
+    "id":5039,
+        "name": "Silk Pants",
+        "price_c": 7800,
+        "price_p": 20000,
+        "type":"Pants",
+        "description":"Imported from the silk route",
+        "tank":160,
+        "rarity":1
+},
+
+
+
+{
+    "id":5040,
+        "name": "Silver Futuristic Telescope",
+        "price_c": 9800,
+        "price_p": 27000,
+        "type":"Sniper",
+        "description":"Random Description",
+        "power":2120,
+        "firing_rate":5,
+        "zoom_speed":550,
+        "reload_speed":530,
+        "weapon_bullets":1,
+        "bullets_max":8,
+        "rarity":1
+},
+
+
+
+{
+    "id":5041,
+        "name": "Baseball Shoes",
+        "price_c": 5600,
+        "price_p": 20000,
+        "type":"Shoes",
+        "description":"Ready for a homerun",
+        "tank":60,
+        "rarity":1
+},
+
+
+
+{
+    "id":5042,
+        "name": "White Furry paws",
+        "price_c": 7800,
+        "price_p": 15000,
+        "type":"Shoes",
+        "description":"Meow!",
+        "tank":60,
+        "rarity":1
+},
+
+
+
+{
+    "id":5043,
+        "name": "Formal Shirt",
+        "price_c": 7800,
+        "price_p": 20000,
+        "type":"Top",
+        "description":"Time for a job interview",
+        "tank":240,
+        "rarity":1
+},
+
+
+
+{
+    "id":5044,
+        "name": "Yeti Boots",
+        "price_c": 7800,
+        "price_p": 20000,
+        "type":"Shoes",
+        "description":"Watch out! Don't slip",
+        "tank":60,
+        "rarity":1
+},
+
+
+
+{
+    "id":5045,
+        "name": "Step Shoes",
+        "price_c": 4500,
+        "price_p": 20000,
+        "type":"Shoes",
+        "description":"Let's click and clack",
+        "tank":60,
+        "rarity":1
+},
+
+
+
+{
+    "id":5046,
+        "name": "Pressure Watch",
+        "price_c": 1500,
+        "price_p": 7500,
+        "type":"Accesories",
+        "description":"1 Atmosphere on the clock",
+        "shotgun_bullets":9,
+        "rarity":1
+},
+
+
+
+]

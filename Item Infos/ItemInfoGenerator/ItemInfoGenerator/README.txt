@@ -1,0 +1,1 @@
+The JSON file has to go to bin/Debug/netcoreapp2.1 ! ! !
