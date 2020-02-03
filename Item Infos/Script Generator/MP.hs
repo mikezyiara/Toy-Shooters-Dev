@@ -33,7 +33,9 @@ main = do
 
   where
     main' :: [String] -> IO ()
-    main' [output] = do
+    main' [output, start, end] = do
+      let intStart = read start :: Int
+      let intEnd = read end :: Int
       -- replace expand with expandMore for the extension implementation
-      writeFile output (tem)
-    main' _ = putStrLn ("Usage: runghc MP <output>")
+      writeFile output (makeJSONTemplate intStart intEnd)
+    main' _ = putStrLn ("Usage: runghc MP <output> <start index> <end index>")

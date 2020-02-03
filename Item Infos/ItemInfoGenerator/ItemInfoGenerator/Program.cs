@@ -20,10 +20,20 @@ namespace ItemInfoGenerator
             
            
             List<ItemInfo> items;
-            using (StreamReader r = new StreamReader(path))
+            try
             {
-                string json = r.ReadToEnd();
-                items = JsonConvert.DeserializeObject<List<ItemInfo>>(json);
+                using (StreamReader r = new StreamReader(path))
+                {
+                    string json = r.ReadToEnd();
+                    items = JsonConvert.DeserializeObject<List<ItemInfo>>(json);
+                    Console.WriteLine("Found the file and converted the objects");
+                }
+            }
+            catch (FileNotFoundException e)
+            {
+                Console.WriteLine("File not found");
+                Console.WriteLine(e.Message);
+                items = new List<ItemInfo>();
             }
             return items;
         }

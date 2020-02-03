@@ -5,7 +5,7 @@ using System.Text;
 namespace ItemInfoGenerator
 {
 
-   
+
     public class ItemInfo
     {
 
@@ -84,7 +84,7 @@ namespace ItemInfoGenerator
 
     public enum ItemType
     {
-        Melee, 
+        Melee,
         Rifle,
         Shotgun,
         Sniper,
@@ -98,6 +98,6 @@ namespace ItemInfoGenerator
         Pants,
         Shoes,
         Set
-  
+
     }
 }
