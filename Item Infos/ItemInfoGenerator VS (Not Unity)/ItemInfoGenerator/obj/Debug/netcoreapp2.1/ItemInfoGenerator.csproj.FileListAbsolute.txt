@@ -9,3 +9,14 @@ D:\Programming\ToyShooters\Item Infos\ItemInfoGenerator\ItemInfoGenerator\obj\De
 D:\Programming\ToyShooters\Item Infos\ItemInfoGenerator\ItemInfoGenerator\obj\Debug\netcoreapp2.1\ItemInfoGenerator.AssemblyInfo.cs
 D:\Programming\ToyShooters\Item Infos\ItemInfoGenerator\ItemInfoGenerator\obj\Debug\netcoreapp2.1\ItemInfoGenerator.dll
 D:\Programming\ToyShooters\Item Infos\ItemInfoGenerator\ItemInfoGenerator\obj\Debug\netcoreapp2.1\ItemInfoGenerator.pdb
+D:\Programming\ToyShooters\Item Infos\ItemInfoGenerator VS (Not Unity)\ItemInfoGenerator\bin\Debug\netcoreapp2.1\ItemInfoGenerator.deps.json
+D:\Programming\ToyShooters\Item Infos\ItemInfoGenerator VS (Not Unity)\ItemInfoGenerator\bin\Debug\netcoreapp2.1\ItemInfoGenerator.runtimeconfig.json
+D:\Programming\ToyShooters\Item Infos\ItemInfoGenerator VS (Not Unity)\ItemInfoGenerator\bin\Debug\netcoreapp2.1\ItemInfoGenerator.runtimeconfig.dev.json
+D:\Programming\ToyShooters\Item Infos\ItemInfoGenerator VS (Not Unity)\ItemInfoGenerator\bin\Debug\netcoreapp2.1\ItemInfoGenerator.dll
+D:\Programming\ToyShooters\Item Infos\ItemInfoGenerator VS (Not Unity)\ItemInfoGenerator\bin\Debug\netcoreapp2.1\ItemInfoGenerator.pdb
+D:\Programming\ToyShooters\Item Infos\ItemInfoGenerator VS (Not Unity)\ItemInfoGenerator\obj\Debug\netcoreapp2.1\ItemInfoGenerator.csprojAssemblyReference.cache
+D:\Programming\ToyShooters\Item Infos\ItemInfoGenerator VS (Not Unity)\ItemInfoGenerator\obj\Debug\netcoreapp2.1\ItemInfoGenerator.csproj.CoreCompileInputs.cache
+D:\Programming\ToyShooters\Item Infos\ItemInfoGenerator VS (Not Unity)\ItemInfoGenerator\obj\Debug\netcoreapp2.1\ItemInfoGenerator.AssemblyInfoInputs.cache
+D:\Programming\ToyShooters\Item Infos\ItemInfoGenerator VS (Not Unity)\ItemInfoGenerator\obj\Debug\netcoreapp2.1\ItemInfoGenerator.AssemblyInfo.cs
+D:\Programming\ToyShooters\Item Infos\ItemInfoGenerator VS (Not Unity)\ItemInfoGenerator\obj\Debug\netcoreapp2.1\ItemInfoGenerator.dll
+D:\Programming\ToyShooters\Item Infos\ItemInfoGenerator VS (Not Unity)\ItemInfoGenerator\obj\Debug\netcoreapp2.1\ItemInfoGenerator.pdb

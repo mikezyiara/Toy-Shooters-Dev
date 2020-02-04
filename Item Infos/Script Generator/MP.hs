@@ -20,7 +20,7 @@ makeString i = st5
     st2 = st1 ++ twelve ++ "\"price_c\": " ++ "10000,\n"
     st' = st2 ++ twelve ++ "\"price_p\": " ++ "30000,\n"
     st3 = st' ++ twelve ++  "\"type\":" ++ "\"Rifle\",\n"
-    st4 = st3 ++ twelve ++ "\"description\":" ++ "\"Random Description\"\n"
+    st4 = st3 ++ twelve ++ "\"description\":" ++ "\"Random Description\",\n"
     st4' = st4 ++ twelve ++ "\"rarity\":" ++ "1\n"
     st5 = st4' ++ "  },\n\n\n"
 

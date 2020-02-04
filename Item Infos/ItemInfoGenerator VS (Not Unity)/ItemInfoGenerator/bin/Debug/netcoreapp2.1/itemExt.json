@@ -509,7 +509,7 @@
       "price_p": 25000,
       "type":"Top",
       "description":"A bit hot for that, ain't it?",
-      "tank":260,
+      "tank":240,
       "rarity":1
 },
 
@@ -863,5 +863,722 @@
 },
 
 
+{
+    "id":5048,
+        "name": "Galactic Hands",
+        "price_c": 3000,
+        "price_p": 12000,
+        "type":"Hands",
+        "description":"Once upon a time Naomi was an inter-galactic traveller",
+        "rarity":2,
+        "tank":60
+},
+
+
+
+{
+    "id":5049,
+        "name": "Rabbit pack",
+        "price_c": 1000,
+        "price_p": 13000,
+        "type":"Accesories",
+        "description":"Alaways in search for some carrots",
+        "rarity":1,
+        "bazooka_bullets":9
+},
+
+{
+    "id":5050,
+        "name": "White Vast",
+        "price_c": 9800,
+        "price_p": 27800,
+        "type":"Sniper",
+        "description":"Everybody will hide once you whip out the white ripper",
+        "rarity":1,
+        "power":2020,
+        "firing_rate":5,
+        "zoom_speed":550,
+        "reload_speed":510,
+        "weapon_bullets":1,
+        "bullets_max":8,
+},
+
+
+
+{
+    "id":5051,
+    "name": "Black School Garment",
+    "price_c": 7800,
+    "price_p": 24300,
+    "type":"Top",
+    "description":"I'm feeling very punk and edgy today",
+    "rarity":1,
+    "tank":240
+},
+
+
+
+{
+    "id":5052,
+        "name": "Speechperson's Vest",
+        "price_c": 7800,
+        "price_p": 24300,
+        "type":"Top",
+        "description":"Today I'm holding a speech for the school assembly, wish me luck!",
+        "rarity":1,
+        "tank":240
+},
+
+
+
+{
+    "id":5053,
+        "name": "White Hornet",
+        "price_c": 9800,
+        "price_p": 27800,
+        "type":"Rifle",
+        "description":"Stingiest of the bees",
+        "power":365,
+        "firing_rate":950,
+		    "acurracy":810,
+        "reload_speed":500,
+        "weapon_bullets":50,
+        "bullets_max":100,
+        "rarity":1
+},
+
+
+
+{
+    "id":5054,
+        "name": "Blue Beanie",
+        "price_c": 3500,
+        "price_p": 15000,
+        "type":"Hair",
+        "description":"Blue always looks classy",
+        "rarity":1,
+        "bullet_armor":0.05
+},
+
+
+
+{
+    "id":5055,
+        "name": "Kitchen Pot",
+        "price_c": 1500,
+        "price_p": 7500,
+        "type":"Hair",
+        "description":"Not quite the most attractive hair, but it will do",
+        "rarity":1,
+        "bullet_armor":0.05
+},
+
+
+
+{
+    "id":5056,
+        "name": "Golden Halloween Hammer",
+        "price_c": 9800,
+        "price_p": 27800,
+        "type":"Melee",
+        "description":"Spook away all the enemies that dare approach you",
+        "rarity":1,
+        "power":840,
+    		"range":720,
+    		"run_speed":700,
+    		"secondary_power":2100,
+},
+
+
+
+{
+    "id":5057,
+        "name": "Fancy Western Cowboy Shirt",
+        "price_c": 5600,
+        "price_p": 17000,
+        "type":"Top",
+        "description":"Feels like Texas",
+        "rarity":1,
+        "tank":240
+},
+
+
+
+{
+    "id":5058,
+        "name": "Black Leopard Vest",
+        "price_c": 7800,
+        "price_p": 24600,
+        "type":"Top",
+        "description":"Nyaa~",
+        "rarity":1,
+        "tank":240
+},
+
+
+
+{
+    "id":5059,
+        "name": "White Bombard",
+        "price_c": 9800,
+        "price_p": 27800,
+        "type":"Shotgun",
+        "description":"Bombard them with overwhelming power",
+        "power":876,
+        "firing_rate":395,
+    		"acurracy":550,
+        "reload_speed":475,
+        "weapon_bullets":3,
+        "bullets_max":6,
+        "rarity":1
+},
+
+
+
+{
+    "id":5060,
+        "name": "Chinese Ponytail",
+        "price_c": 3400,
+        "price_p": 14800,
+        "type":"Hair",
+        "description":"My grandma braided my hair like this",
+        "rarity":1,
+        "bullet_armor":0.05
+},
+
+
+
+{
+    "id":5061,
+        "name": "Adventurer's Pants",
+        "price_c": 3400,
+        "price_p": 14400,
+        "type":"Pants",
+        "description":"Any adventurer's must-have pants",
+        "rarity":1,
+        "tank":240
+},
+
+
+
+{
+    "id":5062,
+        "name": "Incitating Pack",
+        "price_c": 7800,
+        "price_p": 26300,
+        "type":"Set",
+        "description":"Classiest outfit Pandora's ever had",
+        "rarity":1,
+        "tank":480
+},
+
+
+
+{
+    "id":5063,
+        "name": "Halter and Pink",
+        "price_c": 10000,
+        "price_p": 30000,
+        "type":"Top",
+        "description":"Ties aren't just for formal occasions",
+        "rarity":1,
+        "tank":240
+},
+
+
+
+{
+    "id":5064,
+        "name": "Buccaneer's Helmet",
+        "price_c": 3400,
+        "price_p": 14400,
+        "type":"Hair",
+        "description":"Ready for some hunting",
+        "rarity":1,
+        "bullet_armor":0.05
+},
+
+
+
+{
+    "id":5065,
+        "name": "Black Snowflake Dress",
+        "price_c": 7800,
+        "price_p": 27000,
+        "type":"Top",
+        "description":"I'm a true special snowflake",
+        "rarity":1,
+        "tank":240
+},
+
+
+
+{
+    "id":5066,
+        "name": "God's Gauntlets",
+        "price_c": 3400,
+        "price_p": 14700,
+        "type":"Hands",
+        "description":"These guantlets are belessed by the angels",
+        "rarity":1,
+        "tank":60
+},
+
+
+
+{
+    "id":5067,
+        "name": "Colonel Crac",
+        "price_c": 14300,
+        "price_p": 45000,
+        "type":"Set",
+        "description":"Straighten up soldier!",
+        "rarity":1,
+        "tank":560
+},
+
+
+
+{
+    "id":5068,
+        "name": "Red Light Hands",
+        "price_c": 1400,
+        "price_p": 8900,
+        "type":"Hands",
+        "description":"When I raise up my hand you know it's time to go",
+        "rarity":1,
+        "tank":60
+},
+
+
+
+{
+    "id":5069,
+    "name": "Bullet Boots",
+    "price_c": 3400,
+    "price_p": 17800,
+    "type":"Shoes",
+    "description":"What's up with these shoes? They look like bullets",
+    "rarity":1,
+    "tank":60
+},
+
+
+
+{
+    "id":5070,
+        "name": "Zeus",
+        "price_c": 45000,
+        "price_p": 180000,
+        "type":"Grenade",
+        "description":"The almightiest god weapon",
+        "power":1020,
+        "firing_rate":765,
+        "blast_radius":450,
+		"reload_speed":600,
+        "weapon_bullets":3,
+        "bullets_max":6,
+        "rarity":1
+},
+
+
+
+{
+    "id":5071,
+        "name": "Green Step Shoes",
+        "price_c": 3400,
+        "price_p": 14500,
+        "type":"Shoes",
+        "description":"Ready to take over the dance floor",
+        "rarity":1,
+        "tank":60
+},
+
+
+
+{
+    "id":5072,
+        "name": "RandomName",
+        "price_c": 10000,
+        "price_p": 30000,
+        "type":"Rifle",
+        "description":"Random Description",
+        "rarity":1
+},
+
+
+
+{
+    "id":5073,
+        "name": "White & Blue",
+        "price_c": 2200,
+        "price_p": 9800,
+        "type":"Shoes",
+        "description":"Something like Orange & Black",
+        "rarity":1,
+        "tank":60
+},
+
+
+
+{
+    "id":5074,
+        "name": "Dark Lego Shoes",
+        "price_c": 2900,
+        "price_p": 16600,
+        "type":"Shoes",
+        "description":"Don't step on these, it's gonna hurt quite a lot",
+        "rarity":1,
+        "tank":60
+},
+
+
+
+{
+    "id":5075,
+        "name": "Duke's Crown",
+        "price_c": 18000,
+        "price_p": 54300,
+        "type":"Accesories",
+        "description":"Only a duke can wear this crown",
+        "rarity":1,
+        "shotgun_bullets":9
+
+},
+
+
+
+{
+    "id":5076,
+        "name": "White Mimic",
+        "price_c": 9800,
+        "price_p": 27800,
+        "type":"Bazooka",
+        "description":"The mimic mimics a white mime",
+        "rarity":1,
+        "power":868,
+        "firing_rate":485,
+        "blast_radius":300,
+        "bullet_speed":265,
+        "weapon_bullets":3,
+        "bullets_max":6,
+        "rarity":1
+},
+
+
+
+{
+    "id":5077,
+        "name": "Clown Legs",
+        "price_c": 6400,
+        "price_p": 19800,
+        "type":"Pants",
+        "description":"Only a clown would wear such pants",
+        "rarity":1,
+        "tank":160
+},
+
+
+
+{
+    "id":5078,
+        "name": "Gloomy Face",
+        "price_c": 1100,
+        "price_p": 5600,
+        "type":"Face",
+        "description":"Why so sad?",
+        "rarity":1,
+        "bullet_armor":0.05
+},
+
+
+
+{
+    "id":5079,
+        "name": "Yellow Yoga Suit",
+        "price_c": 6700,
+        "price_p": 34000,
+        "type":"Set",
+        "description":"Time for some yoga",
+        "rarity":1,
+        "tank":480
+},
+
+
+
+{
+    "id":5080,
+        "name": "White Fighter Hair",
+        "price_c": 4400,
+        "price_p": 16600,
+        "type":"Hair",
+        "description":"Straight out of anime",
+        "rarity":1,
+        "bullet_armor":0.05
+},
+
+
+
+{
+    "id":5081,
+        "name": "Imber Boots",
+        "price_c": 6400,
+        "price_p": 24300,
+        "type":"Shoes",
+        "description":"Looks a bit rainy outside",
+        "rarity":1,
+        "tank":30
+},
+
+
+
+{
+    "id":5083,
+        "name": "Gelled Hair ",
+        "price_c": 3400,
+        "price_p": 12400,
+        "type":"Hair",
+        "description":"Kinda look like a boy, kinda look hot",
+        "rarity":1,
+        "bullet_armor":0.05
+},
+
+
+
+{
+    "id":5084,
+        "name": "Desert Shorts",
+        "price_c": 2300,
+        "price_p": 4600,
+        "type":"Pants",
+        "description":"Too hot for any other kind of parts in the desert!",
+        "rarity":1,
+        "tank":160
+},
+
+
+{
+    "id":5085,
+        "name": "Mini Flashlight",
+        "price_c": 980,
+        "price_p": 4500,
+        "type":"Accesories",
+        "description":"Light up the way",
+        "rarity":1,
+        "grenades_bullets": 9
+},
+
+
+
+{
+    "id":5086,
+        "name": "Rubix Cube",
+        "price_c": 3400,
+        "price_p": 18600,
+        "type":"Top",
+        "description":"Gives off all the 2011 vibes",
+        "rarity":1,
+        "tank":240
+},
+
+
+
+{
+    "id":5087,
+    "name": "Angry Face",
+    "price_c": 980,
+    "price_p": 4700,
+    "type":"Face",
+    "description":"Someone's got anger issues",
+    "rarity":1,
+    "bullet_armor":0.05
+},
+
+
+
+{
+    "id":5088,
+        "name": "Poke Hair",
+        "price_c": 980,
+        "price_p": 4700,
+        "type":"Accesories",
+        "description":"Gotta catch them all",
+        "rarity":1,
+        "shotgun_bullets":9
+},
+
+
+
+{
+    "id":5089,
+        "name": "RandomName",
+        "price_c": 10000,
+        "price_p": 30000,
+        "type":"Rifle",
+        "description":"Random Description",
+        "rarity":1
+},
+
+
+
+{
+    "id":5090,
+        "name": "Zipper Jacket",
+        "price_c": 3400,
+        "price_p": 16700,
+        "type":"Top",
+        "description":"Large red checkered jacket with an even larger zipper",
+        "rarity":1,
+        "tank":160
+},
+
+
+
+{
+    "id":5091,
+        "name": "Espionage G",
+        "price_c": 10000,
+        "price_p": 30000,
+        "type":"Rifle",
+        "description":"Both shiny and impressively powerful",
+        "power":800,
+		"firing_rate":475,
+		"acurracy":480,
+        "reload_speed":325,
+        "weapon_bullets":3,
+        "bullets_max":6,
+        "rarity":1
+},
+
+
+
+{
+    "id":5092,
+        "name": "Captain's Hat",
+        "price_c": 6300,
+        "price_p": 21000,
+        "type":"Hair",
+        "description":"Only the one who rules the crew can wear this",
+        "rarity":1,
+        "bullet_armor":0.05
+},
+
+
+
+{
+    "id":5093,
+        "name": "Oriental Pink Launcher",
+        "price_c": 9800,
+        "price_p": 27800,
+        "type":"Bazooka",
+        "description":"All the way from the Middle East",
+        "rarity":1,
+        "power":900,
+        "firing_rate":425,
+        "blast_radius":330,
+        "bullet_speed":305,
+        "weapon_bullets":3,
+        "bullets_max":6,
+
+},
+
+
+
+{
+    "id":5094,
+        "name": "Elder's Staff",
+        "price_c": 9800,
+        "price_p": 28700,
+        "type":"Melee",
+        "description":"The staff of the village's elder",
+        "rarity":1,
+        "power":840,
+    		"range":720,
+    		"run_speed":700,
+    		"secondary_power":2100,
+
+},
+
+
+
+{
+    "id":5095,
+        "name": "Calm Hair",
+        "price_c": 3400,
+        "price_p": 14300,
+        "type":"Hair",
+        "description":"Wonderfully combed, elegant",
+        "rarity":1,
+        "bullet_armor":0.05
+},
+
+
+
+{
+    "id":5096,
+        "name": "Silk Leggings",
+        "price_c": 6600,
+        "price_p": 21000,
+        "type":"Pants",
+        "description":"Made of the finest silk one can find",
+        "rarity":1,
+        "tank":160
+},
+
+
+
+{
+    "id":5097,
+        "name": "Clean Hands",
+        "price_c": 1200,
+        "price_p": 6700,
+        "type":"Hands",
+        "description":"Just washed them!",
+        "rarity":1,
+        "tank":60
+},
+
+
+
+{
+    "id":5098,
+        "name": "Clear Legs",
+        "price_c": 3400,
+        "price_p": 11200,
+        "type":"Pants",
+        "description":"Just got a wax, quite fine texture, isn't it?",
+        "rarity":1,
+        "tank":160
+},
+
+
+
+{
+    "id":5099,
+        "name": "Pacific Bonito",
+        "price_c": 1200,
+        "price_p": 4600,
+        "type":"Accesories",
+        "description":"Straight from the Pacific",
+        "rarity":1,
+        "bazooka_bullets":9
+},
+
+
+
+{
+    "id":5100,
+        "name": "Silver Steampunk Razer",
+        "price_c": 9800,
+        "price_p": 29800,
+        "type":"Melee",
+        "description":"Woah, watch where you wave that!",
+        "rarity":1,
+        "power":800,
+        "range":720,
+        "run_speed":700,
+        "secondary_power":2000
+
+}
 
 ]
