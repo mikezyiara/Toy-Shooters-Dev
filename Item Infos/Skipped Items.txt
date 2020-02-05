@@ -1,1 +1,3 @@
 ID: 5082 - Drum set Diorama
+ID: 5108 - Cube pack
+ID: 5119 - Knox Grey pack

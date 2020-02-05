@@ -1,5 +1,5 @@
   {
-      "id":5050,
+      "id":5101,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -11,7 +11,7 @@
 
 
   {
-      "id":5051,
+      "id":5102,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -23,7 +23,7 @@
 
 
   {
-      "id":5052,
+      "id":5103,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -35,7 +35,7 @@
 
 
   {
-      "id":5053,
+      "id":5104,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -47,7 +47,7 @@
 
 
   {
-      "id":5054,
+      "id":5105,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -59,7 +59,7 @@
 
 
   {
-      "id":5055,
+      "id":5106,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -71,7 +71,7 @@
 
 
   {
-      "id":5056,
+      "id":5107,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -83,7 +83,7 @@
 
 
   {
-      "id":5057,
+      "id":5108,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -95,7 +95,7 @@
 
 
   {
-      "id":5058,
+      "id":5109,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -107,7 +107,7 @@
 
 
   {
-      "id":5059,
+      "id":5110,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -119,7 +119,7 @@
 
 
   {
-      "id":5060,
+      "id":5111,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -131,7 +131,7 @@
 
 
   {
-      "id":5061,
+      "id":5112,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -143,7 +143,7 @@
 
 
   {
-      "id":5062,
+      "id":5113,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -155,7 +155,7 @@
 
 
   {
-      "id":5063,
+      "id":5114,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -167,7 +167,7 @@
 
 
   {
-      "id":5064,
+      "id":5115,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -179,7 +179,7 @@
 
 
   {
-      "id":5065,
+      "id":5116,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -191,7 +191,7 @@
 
 
   {
-      "id":5066,
+      "id":5117,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -203,7 +203,7 @@
 
 
   {
-      "id":5067,
+      "id":5118,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -215,7 +215,7 @@
 
 
   {
-      "id":5068,
+      "id":5119,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -227,7 +227,7 @@
 
 
   {
-      "id":5069,
+      "id":5120,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -239,7 +239,7 @@
 
 
   {
-      "id":5070,
+      "id":5121,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -251,7 +251,7 @@
 
 
   {
-      "id":5071,
+      "id":5122,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -263,7 +263,7 @@
 
 
   {
-      "id":5072,
+      "id":5123,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -275,7 +275,7 @@
 
 
   {
-      "id":5073,
+      "id":5124,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -287,7 +287,7 @@
 
 
   {
-      "id":5074,
+      "id":5125,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -299,7 +299,7 @@
 
 
   {
-      "id":5075,
+      "id":5126,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -311,7 +311,7 @@
 
 
   {
-      "id":5076,
+      "id":5127,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -323,7 +323,7 @@
 
 
   {
-      "id":5077,
+      "id":5128,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -335,7 +335,7 @@
 
 
   {
-      "id":5078,
+      "id":5129,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -347,7 +347,7 @@
 
 
   {
-      "id":5079,
+      "id":5130,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -359,7 +359,7 @@
 
 
   {
-      "id":5080,
+      "id":5131,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -371,7 +371,7 @@
 
 
   {
-      "id":5081,
+      "id":5132,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -383,7 +383,7 @@
 
 
   {
-      "id":5082,
+      "id":5133,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -395,7 +395,7 @@
 
 
   {
-      "id":5083,
+      "id":5134,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -407,7 +407,7 @@
 
 
   {
-      "id":5084,
+      "id":5135,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -419,7 +419,7 @@
 
 
   {
-      "id":5085,
+      "id":5136,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -431,7 +431,7 @@
 
 
   {
-      "id":5086,
+      "id":5137,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -443,7 +443,7 @@
 
 
   {
-      "id":5087,
+      "id":5138,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -455,7 +455,7 @@
 
 
   {
-      "id":5088,
+      "id":5139,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -467,7 +467,7 @@
 
 
   {
-      "id":5089,
+      "id":5140,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -479,7 +479,7 @@
 
 
   {
-      "id":5090,
+      "id":5141,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -491,7 +491,7 @@
 
 
   {
-      "id":5091,
+      "id":5142,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -503,7 +503,7 @@
 
 
   {
-      "id":5092,
+      "id":5143,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -515,7 +515,7 @@
 
 
   {
-      "id":5093,
+      "id":5144,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -527,7 +527,7 @@
 
 
   {
-      "id":5094,
+      "id":5145,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -539,7 +539,7 @@
 
 
   {
-      "id":5095,
+      "id":5146,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -551,7 +551,7 @@
 
 
   {
-      "id":5096,
+      "id":5147,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -563,7 +563,7 @@
 
 
   {
-      "id":5097,
+      "id":5148,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -575,7 +575,7 @@
 
 
   {
-      "id":5098,
+      "id":5149,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -587,19 +587,7 @@
 
 
   {
-      "id":5099,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5100,
+      "id":5150,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,

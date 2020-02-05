@@ -770,7 +770,7 @@
 
 {
     "id":5040,
-        "name": "Silver Futuristic Telescope",
+        "name": "Masamune-S",
         "price_c": 9800,
         "price_p": 27000,
         "type":"Sniper",
@@ -900,7 +900,7 @@
         "zoom_speed":550,
         "reload_speed":510,
         "weapon_bullets":1,
-        "bullets_max":8,
+        "bullets_max":8
 },
 
 
@@ -986,7 +986,7 @@
         "power":840,
     		"range":720,
     		"run_speed":700,
-    		"secondary_power":2100,
+    		"secondary_power":2100
 },
 
 
@@ -1261,8 +1261,7 @@
         "blast_radius":300,
         "bullet_speed":265,
         "weapon_bullets":3,
-        "bullets_max":6,
-        "rarity":1
+        "bullets_max":6
 },
 
 
@@ -1411,25 +1410,27 @@
 
 {
     "id":5089,
-        "name": "RandomName",
-        "price_c": 10000,
-        "price_p": 30000,
-        "type":"Rifle",
-        "description":"Random Description",
-        "rarity":1
+    "name": "Zipper Jacket",
+    "price_c": 3400,
+    "price_p": 16700,
+    "type":"Top",
+    "description":"Large red checkered jacket with an even larger zipper",
+    "rarity":1,
+    "tank":160
 },
 
 
 
 {
     "id":5090,
-        "name": "Zipper Jacket",
-        "price_c": 3400,
-        "price_p": 16700,
-        "type":"Top",
-        "description":"Large red checkered jacket with an even larger zipper",
+        "name": "Toad Backpack",
+        "price_c": 4600,
+        "price_p": -1,
+        "type":"Accesories",
+        "description":"Damn, this backpack is hella cool",
         "rarity":1,
-        "tank":160
+        "bazooka_bullets":9,
+        "gatling_bullets":150
 },
 
 
@@ -1478,7 +1479,7 @@
         "blast_radius":330,
         "bullet_speed":305,
         "weapon_bullets":3,
-        "bullets_max":6,
+        "bullets_max":6
 
 },
 
@@ -1495,7 +1496,7 @@
         "power":840,
     		"range":720,
     		"run_speed":700,
-    		"secondary_power":2100,
+    		"secondary_power":2100
 
 },
 
@@ -1579,6 +1580,688 @@
         "run_speed":700,
         "secondary_power":2000
 
+},
+
+
+{
+    "id":5101,
+        "name": "Jimi",
+        "price_c": 17800,
+        "price_p": -1,
+        "type":"Set",
+        "description":"Oh yeaaaaah",
+        "rarity":1,
+        "tank":560,
+        "move_speed":0.12
+},
+
+
+
+{
+    "id":5102,
+        "name": "Grandma's Glasses",
+        "price_c": -1,
+        "price_p": 4700,
+        "type":"Accesories",
+        "description":"It's hard to shoot guns when you can't even see",
+        "rarity":1,
+        "shotgun_bullets":9,
+        "sniper_bullets":9
+},
+
+
+
+{
+    "id":5103,
+        "name": "Painter's Pants",
+        "price_c": -1,
+        "price_p": 9800,
+        "type":"Pants",
+        "description":"Kai is the new Picasso",
+        "rarity":1,
+        "tank":0,
+        "move_speed":0
+},
+
+
+
+{
+    "id":5104,
+        "name": "Muscle Armor",
+        "price_c": 7800,
+        "price_p": -1,
+        "type":"Top",
+        "description":"Heading to the gym daily, eh?",
+        "rarity":1,
+        "tank":240,
+        "move_speed":0.06
+},
+
+
+
+{
+    "id":5105,
+        "name": "Scrawny Face",
+        "price_c": -1,
+        "price_p": 7800,
+        "type":"Face",
+        "description":"Someone's had a bad day",
+        "rarity":1,
+        "bullet_armor":0.05,
+        "explosion_armor":0.06
+},
+
+
+
+{
+    "id":5106,
+        "name": "Waxed Legs",
+        "price_c": -1,
+        "price_p": 13400,
+        "type":"Pants",
+        "description":"Nothing more to say",
+        "rarity":1,
+        "tank":240,
+        "move_speed":0.04
+},
+
+
+
+{
+    "id":5107,
+        "name": "White Exile",
+        "price_c": 9800,
+        "price_p": -1,
+        "type":"Grenade",
+        "description":"Stronkk weapon",
+        "rarity":1,
+        "power":918,
+        "firing_rate":710,
+        "blast_radius":460,
+		"reload_speed":375,
+        "weapon_bullets":3,
+        "bullets_max":6,
+},
+
+
+
+
+{
+    "id":5109,
+        "name": "Green Team Cap",
+        "price_c": 10000,
+        "price_p": 30000,
+        "type":"Rifle",
+        "description":"Go greeeens!",
+        "rarity":1,
+        "bullet_armor":0.05,
+        "explosion_armor":0.06
+},
+
+
+
+{
+    "id":5110,
+        "name": "School Sneakers",
+        "price_c": -1,
+        "price_p": 7800,
+        "type":"Shoes",
+        "description":"I'm gonna miss the school buss if I don't hurry",
+        "rarity":1,
+        "tank":60,
+        "move_speed":0.015
+
+},
+
+
+
+{
+    "id":5111,
+    "name": "Arthuria's Leggings",
+    "price_c": 8900,
+    "price_p": -1,
+    "type":"Pants",
+    "description":"Arthuria Pendragon's legendary pair of armory",
+    "rarity":1,
+    "tank":160,
+    "move_speed":0.04
+},
+
+
+
+{
+    "id":5112,
+    "name": "King's Grip",
+    "price_c": 4500,
+    "price_p": -1,
+    "type":"Hands",
+    "description":"The grip of the true conqueror",
+    "rarity":1,
+    "tank":60,
+    "move_speed":0.015
+},
+
+
+
+{
+        "id":5113,
+        "name": "Modest Hair",
+        "price_c": -1,
+        "price_p": 7800,
+        "type":"Hair",
+        "description":"Kai bleached his hair a bit",
+        "rarity":1,
+        "bullet_armor":0.05,
+        "explosion_armor":0.06
+},
+
+
+
+{
+    "id":5114,
+        "name": "Antler Trophy",
+        "price_c": 3400,
+        "price_p": -1,
+        "type":"Hair",
+        "description":"The tropy of the greatest hunter",
+        "rarity":1,
+        "bullet_armor":0.05,
+        "explosion_armor":0.06
+},
+
+
+
+{
+    "id":5115,
+        "name": "Spy Hat",
+        "price_c": 6700,
+        "price_p": -1,
+        "type":"Hair",
+        "description":"Hush, you're gonna blow my cover",
+        "rarity":1,
+        "bullet_armor":0.05,
+        "explosion_armor":0.06
+},
+
+
+
+{
+    "id":5116,
+        "name": "Red Binoculars",
+        "price_c": 980,
+        "price_p": -1,
+        "type":"Accesories",
+        "description":"With these you can see far, far away",
+        "rarity":1,
+        "grenades_bullets":9,
+        "rifle_bullets":60
+
+},
+
+
+
+{
+    "id":5117,
+        "name": "Mad Cowboy's Grin",
+        "price_c": 6700,
+        "price_p": -1,
+        "type":"Face",
+        "description":"Daaamn, man, I thought the people from Texas were friendly",
+        "rarity":1,
+        "bullet_armor":0.05,
+        "explosion_armor":0.06
+
+},
+
+
+
+{
+    "id":5118,
+        "name": "Lady's Kimono",
+        "price_c": 16600,
+        "price_p": -1,
+        "type":"Top",
+        "description":"Only a truly elegant lady can wear this",
+        "rarity":1,
+        "tank":400,
+        "move_speed":0.09
+},
+
+
+
+{
+    "id":5120,
+        "name": "Ukraine Ball",
+        "price_c": 9800,
+        "price_p": -1,
+        "type":"Accesories",
+        "description":"Go Ukraineeee!",
+        "rarity":1,
+        "grenades_bullets":9,
+        "rifle_bullets":60
+},
+
+
+
+{
+    "id":5121,
+    "name": "Ukraine Ball",
+    "price_c": 9800,
+    "price_p": -1,
+    "type":"Accesories",
+    "description":"Go Ukraineeee!",
+    "rarity":1,
+    "grenades_bullets":9,
+    "rifle_bullets":60
+},
+
+
+
+{
+    "id":5122,
+        "name": "Cube Legs",
+        "price_c": 10000,
+        "price_p": 30000,
+        "type":"Pants",
+        "description":"The building blocks to any sturdy legs",
+        "rarity":1,
+        "tank":160,
+        "move_speed":0.04
+},
+
+
+
+{
+    "id":5123,
+        "name": "Blue Basic Top",
+        "price_c": -1,
+        "price_p": 16600,
+        "type":"Rifle",
+        "description":"I look good in blue",
+        "rarity":1,
+        "tank":240,
+        "move_speed":0.06
+},
+
+
+
+{
+    "id":5124,
+        "name": "Captain's Dress",
+        "price_c": 6700,
+        "price_p": -1,
+        "type":"Top",
+        "description":"Sails up! Captain Naomi is on board",
+        "rarity":1,
+        "tank":240,
+        "move_speed":0.06
+},
+
+
+
+{
+    "id":5125,
+        "name": "Black Strap Heels",
+        "price_c": -1,
+        "price_p": 9800,
+        "type":"Shoes",
+        "description":"Super modern, super stylish",
+        "rarity":1,
+        "tank":60,
+        "move_speed":0.015
+},
+
+
+
+{
+    "id":5126,
+        "name": "Triforce Gloves",
+        "price_c": -1,
+        "price_p": 7800,
+        "type":"Hands",
+        "description":"Don't try to hold her hands",
+        "rarity":1,
+        "tank":60,
+        "move_speed":0.015
+},
+
+
+
+{
+    "id":5127,
+        "name": "Jungle Top",
+        "price_c": -1,
+        "price_p": 16700,
+        "type":"Top",
+        "description":"It's time to explore the jungle",
+        "rarity":1,
+        "tank":240,
+        "move_speed":0.06
+},
+
+
+
+{
+    "id":5128,
+        "name": "Blue Denim Hotpants",
+        "price_c": -1,
+        "price_p": 6700,
+        "type":"Pants",
+        "description":"Trendy",
+        "rarity":1,
+        "tank":0,
+        "move_speed":0.00
+},
+
+
+
+{
+    "id":5129,
+        "name": "Brown School Shoes",
+        "price_c": -1,
+        "price_p": 6700,
+        "type":"Shoes",
+        "description":"Hmm, it might be time to wash these",
+        "rarity":1,
+        "tank":60,
+        "move_speed":0.015
+},
+
+
+
+{
+    "id":5130,
+        "name": "Feline's tail",
+        "price_c": 4600,
+        "price_p": -1,
+        "type":"Accesories",
+        "description":"Nyaaa~",
+        "rarity":1,
+        "grenades_bullets":9,
+        "rifle_bullets":60
+},
+
+
+
+{
+    "id":5131,
+    "name": "Queen's Wings",
+    "price_c": 4600,
+    "price_p": -1,
+    "type":"Accesories",
+    "description":"Let's fly throuh the fairy queen's forest",
+    "rarity":1,
+    "bazooka_bullets":9,
+    "gatling_bullets":150
+},
+
+
+
+{
+    "id":5132,
+        "name": "Blue Basic Pants",
+        "price_c": -1,
+        "price_p": 13200,
+        "type":"Pants",
+        "description":"Nothing more to say",
+        "rarity":1,
+        "tank":160,
+        "move_speed":0.04
+},
+
+
+
+{
+    "id":5133,
+        "name": "Chess Mask",
+        "price_c": -1,
+        "price_p": 5300,
+        "type":"Accesories",
+        "description":"You could play chess on my face",
+        "rarity":1,
+        "shotgun_bullets":9,
+        "sniper_bullets":9
+},
+
+
+
+{
+    "id":5134,
+        "name": "Pirate's Cap",
+        "price_c": 4600,
+        "price_p": -1,
+        "type":"Hair",
+        "description":"Aye aye cap'n!",
+        "rarity":1,
+        "bullet_armor":0.05,
+        "explosion_armor":0.06
+},
+
+
+
+
+{
+    "id":5136,
+    "name": "Advanced AK-47",
+    "price_c": -1,
+    "price_p": 27800,
+    "type":"Rifle",
+    "description":"Deadly prototype",
+    "rarity":1,
+    "power":380,
+    "firing_rate":950,
+"acurracy":820,
+    "reload_speed":360,
+    "weapon_bullets":50,
+    "bullets_max":100
+},
+
+
+
+{
+    "id":5137,
+        "name": "English Cape",
+        "price_c": -1,
+        "price_p": 16800,
+        "type":"Top",
+        "description":"Suits the rainy weather",
+        "rarity":1,
+        "tank":240,
+        "move_speed":0.06
+
+},
+
+
+
+{
+    "id":5138,
+        "name": "Carol Gloves",
+        "price_c": 6700,
+        "price_p": -1,
+        "type":"Hands",
+        "description":"It's time to sing some carols!",
+        "rarity":1,
+        "tank":60,
+        "move_speed":0.015
+},
+
+
+
+{
+    "id":5139,
+        "name": "White Steel Hammer",
+        "price_c": 10000,
+        "price_p": 30000,
+        "type":"Melee",
+        "description":"Be the savior dressed in white of the battle field",
+        "rarity":1,
+        "power":850,
+    		"range":720,
+    		"run_speed":700,
+    		"secondary_power":2125
+},
+
+
+
+{
+    "id":5140,
+        "name": "Pointy Ears",
+        "price_c": 6700,
+        "price_p": -1,
+        "type":"Hair",
+        "description":"Woah, those look sharp",
+        "rarity":1,
+        "bullet_armor":0.05,
+        "explosion_armor":0.06
+},
+
+
+
+{
+    "id":5141,
+    "id":5089,
+    "name": "Zipper Jacket",
+    "price_c": 3400,
+    "price_p": 16700,
+    "type":"Top",
+    "description":"Large red checkered jacket with an even larger zipper",
+    "rarity":1,
+    "tank":160
+},
+
+
+
+{
+    "id":5142,
+        "name": "Spider Leggings",
+        "price_c": -1,
+        "price_p": 980,
+        "type":"Pants",
+        "description":"My spidey-sense is tingling1",
+        "rarity":1,
+        "tank":160,
+        "move_speed":0.04
+},
+
+
+
+{
+    "id":5143,
+    "name": "Weeb Tears",
+    "price_c": -1,
+    "price_p": 7900,
+    "type":"Face",
+    "description":"Stop cryiinggg",
+    "rarity":1,
+    "bullet_armor":0.05,
+    "explosion_armor":0.06
+},
+
+
+
+{
+    "id":5144,
+        "name": "Sweetie Puff Bun-Bun",
+        "price_c": -1,
+        "price_p": 7900,
+        "type":"Face",
+        "description":"Official Sweetie Puff Bun-Bun badge!",
+        "rarity":1,
+        "rifle_bullets":60,
+        "grenades_bullets":9
+},
+
+
+
+{
+    "id":5145,
+        "name": "Galaxy Stockings",
+        "price_c": -1,
+        "price_p": 27300,
+        "type":"Pants",
+        "description":"From a galaxy far, far away",
+        "rarity":1,
+        "tank":160,
+        "move_speed":0.04
+},
+
+
+
+{
+    "id":5146,
+        "name": "Masamune-G",
+        "price_c": 9800,
+        "price_p": -1,
+        "type":"Sniper",
+        "description":"The sniper of the future",
+        "power":2200,
+        "firing_rate":5,
+        "zoom_speed":550,
+        "reload_speed":540,
+        "weapon_bullets":1,
+        "bullets_max":8,
+        "rarity":1
+},
+
+
+
+{
+    "id":5147,
+        "name": "Office Shoes",
+        "price_c": -1,
+        "price_p": 7600,
+        "type":"Shoes",
+        "description":"Ah, crap, I'm late again",
+        "rarity":1,
+        "tank":60,
+        "move_speed":0.015
+},
+
+
+
+{
+    "id":5148,
+        "name": "Wiggly Tail",
+        "price_c": -1,
+        "price_p": 7,
+        "type":"Accesories",
+        "description":"Wiggle wiggle",
+        "rarity":1,
+        "shotgun_bullets":9,
+        "sniper_bullets":9
+},
+
+
+
+{
+    "id":5149,
+        "name": "Furry Boots",
+        "price_c": 7800,
+        "price_p": -1,
+        "type":"Shoes",
+        "description":"Damn is that leopard fur?",
+        "rarity":1,
+        "tank":60,
+        "move_speed":0.015
+},
+
+
+
+{
+    "id":5150,
+        "name": "Sledge Boots",
+        "price_c": -1,
+        "price_p": 7600,
+        "type":"Shoes",
+        "description":"Perfect when it snows",
+        "rarity":1,
+        "tank":60,
+        "move_speed":0.015
 }
+
+
+
+
+
 
 ]
