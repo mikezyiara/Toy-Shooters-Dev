@@ -736,11 +736,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\ToyShooters\\Item Infos\\ItemInfoGenerator VS (Not Unity)\\ItemInfoGenerator\\ItemInfoGenerator.csproj",
+      "projectUniqueName": "D:\\Programming\\Toy-Shooters-Dev\\Item Infos\\ItemInfoGenerator VS (Not Unity)\\ItemInfoGenerator\\ItemInfoGenerator.csproj",
       "projectName": "ItemInfoGenerator",
-      "projectPath": "D:\\Programming\\ToyShooters\\Item Infos\\ItemInfoGenerator VS (Not Unity)\\ItemInfoGenerator\\ItemInfoGenerator.csproj",
+      "projectPath": "D:\\Programming\\Toy-Shooters-Dev\\Item Infos\\ItemInfoGenerator VS (Not Unity)\\ItemInfoGenerator\\ItemInfoGenerator.csproj",
       "packagesPath": "C:\\Users\\mikez\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\ToyShooters\\Item Infos\\ItemInfoGenerator VS (Not Unity)\\ItemInfoGenerator\\obj\\",
+      "outputPath": "D:\\Programming\\Toy-Shooters-Dev\\Item Infos\\ItemInfoGenerator VS (Not Unity)\\ItemInfoGenerator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\",

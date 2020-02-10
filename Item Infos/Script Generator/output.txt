@@ -1,5 +1,5 @@
   {
-      "id":5101,
+      "id":5151,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -11,7 +11,7 @@
 
 
   {
-      "id":5102,
+      "id":5152,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -23,7 +23,7 @@
 
 
   {
-      "id":5103,
+      "id":5153,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -35,7 +35,7 @@
 
 
   {
-      "id":5104,
+      "id":5154,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -47,7 +47,7 @@
 
 
   {
-      "id":5105,
+      "id":5155,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -59,7 +59,7 @@
 
 
   {
-      "id":5106,
+      "id":5156,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -71,7 +71,7 @@
 
 
   {
-      "id":5107,
+      "id":5157,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -83,7 +83,7 @@
 
 
   {
-      "id":5108,
+      "id":5158,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -95,7 +95,7 @@
 
 
   {
-      "id":5109,
+      "id":5159,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -107,7 +107,7 @@
 
 
   {
-      "id":5110,
+      "id":5160,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -119,7 +119,7 @@
 
 
   {
-      "id":5111,
+      "id":5161,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -131,7 +131,7 @@
 
 
   {
-      "id":5112,
+      "id":5162,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -143,7 +143,7 @@
 
 
   {
-      "id":5113,
+      "id":5163,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -155,7 +155,7 @@
 
 
   {
-      "id":5114,
+      "id":5164,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -167,7 +167,7 @@
 
 
   {
-      "id":5115,
+      "id":5165,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -179,7 +179,7 @@
 
 
   {
-      "id":5116,
+      "id":5166,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -191,7 +191,7 @@
 
 
   {
-      "id":5117,
+      "id":5167,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -203,7 +203,7 @@
 
 
   {
-      "id":5118,
+      "id":5168,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -215,7 +215,7 @@
 
 
   {
-      "id":5119,
+      "id":5169,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
@@ -227,367 +227,7 @@
 
 
   {
-      "id":5120,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5121,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5122,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5123,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5124,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5125,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5126,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5127,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5128,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5129,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5130,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5131,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5132,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5133,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5134,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5135,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5136,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5137,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5138,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5139,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5140,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5141,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5142,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5143,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5144,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5145,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5146,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5147,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5148,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5149,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5150,
+      "id":5170,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,

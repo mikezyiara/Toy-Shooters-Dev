@@ -101,7 +101,7 @@
         "price_c": 8300,
         "price_p": 20000,
         "type":"Sniper",
-        "description":"Headshot!.",
+        "description":"If you don't watch out it will eat your icecream",
         "power":2020,
         "firing_rate":5,
         "zoom_speed":550,
@@ -2256,8 +2256,298 @@
         "rarity":1,
         "tank":60,
         "move_speed":0.015
-}
+},
 
+
+{
+    "id":5498,
+      "name": "Lucifer",
+      "price_c": 42300,
+      "price_p": -1,
+      "type":"Melee",
+      "description":"The lightbringer",
+  "power":1000,
+  "range":820,
+  "run_speed":860,
+  "secondary_power":2200,
+  "rarity":4
+},
+
+
+{
+    "id":5399,
+      "name": "Perses",
+      "price_c": 42300,
+      "price_p": -1,
+      "type":"Shotgun",
+      "description":"The Destroyer",
+      "power":860,
+  "firing_rate":475,
+  "acurracy":500,
+      "reload_speed":400,
+      "weapon_bullets":3,
+      "bullets_max":6,
+      "rarity":4
+},
+
+{
+    "id":6898,
+      "name": "Hyperion",
+      "price_c": 43200,
+      "price_p": -1,
+      "type":"Rifle",
+      "description":"Creator of Light",
+      "power":393,
+      "firing_rate":1000,
+  "acurracy":880,
+      "reload_speed":60,
+      "weapon_bullets":40,
+      "bullets_max":80,
+      "rarity":1
+},
+
+{
+    "id":5548,
+    "name": "Gabriel",
+    "price_c": 43200,
+    "price_p": -1,
+    "type":"Sniper",
+    "description":"Demons fall in the blink of an eye",
+    "power":2250,
+    "firing_rate":5,
+    "zoom_speed":575,
+    "reload_speed":750,
+    "weapon_bullets":1,
+    "bullets_max":8,
+    "rarity":1
+},
+
+
+{
+    "id":5401,
+      "name": "Rook",
+      "price_c": 43200,
+      "price_p": -1,
+      "type":"Bazooka",
+      "description":"The messenger of the gods",
+      "power":925,
+      "firing_rate":485,
+      "blast_radius":360,
+      "bullet_speed":340,
+      "weapon_bullets":3,
+      "bullets_max":6,
+      "rarity":1
+},
+
+
+{
+    "id":6407,
+    "name": "Intervention G3A1",
+    "price_c": 23000,
+    "price_p": -1,
+    "type":"Sniper",
+    "description":"One shot, one kill. Look out",
+    "power":2250,
+    "firing_rate":5,
+    "zoom_speed":520,
+    "reload_speed":530,
+    "weapon_bullets":1,
+    "bullets_max":8,
+    "rarity":1
+},
+
+
+{
+    "id":6407,
+    "name": "Golden Crystal",
+    "price_c": 23200,
+    "price_p": -1,
+    "type":"Melee",
+    "description":"Shiny but deadly",
+    "power":920,
+    "range":710,
+    "run_speed":620,
+    "secondary_power":2300,
+    "rarity":3
+},
+
+
+
+	{
+	    "id":6166,
+        "name": "Gold Rifle",
+        "price_c": 23200,
+        "price_p": -1,
+        "type":"Rifle",
+        "description":"Golden addition to your arsenal",
+        "power":359,
+        "firing_rate":1050,
+		"acurracy":865,
+        "reload_speed":500,
+        "weapon_bullets":40,
+        "bullets_max":80,
+        "rarity":5
+	},
+
+
+  	{
+  	    "id":6169,
+          "name": "Silver Rifle",
+          "price_c": 23200,
+          "price_p": -1,
+          "type":"Rifle",
+          "description":"Highly regarded as the sexiest rifle",
+          "power":357,
+          "firing_rate":1050,
+  		    "acurracy":865,
+          "reload_speed":500,
+          "weapon_bullets":40,
+          "bullets_max":80,
+          "rarity":5
+  	},
+
+
+    {
+        "id":6331,
+          "name": "Bronze Rifle",
+          "price_c": 23200,
+          "price_p": -1,
+          "type":"Rifle",
+          "description":"Rugged, rough, and mean. Don't turn your back on this one, or else it'll finish you off before you know what hit you",
+          "power":354,
+          "firing_rate":1050,
+          "acurracy":865,
+          "reload_speed":500,
+          "weapon_bullets":40,
+          "bullets_max":80,
+          "rarity":5
+    },
+
+
+
+    	{
+    	    "id":7216,
+            "name": "White Rifle",
+            "price_c": 23200,
+            "price_p": -1,
+            "type":"Rifle",
+            "description":"Golden addition to your arsenal",
+            "power":359,
+            "firing_rate":1050,
+    		"acurracy":865,
+            "reload_speed":500,
+            "weapon_bullets":40,
+            "bullets_max":80,
+            "rarity":5
+    	},
+
+
+
+      {
+          "id":5765,
+              "name": "Sheriff",
+              "price_c": 9800,
+              "price_p": 27800,
+              "type":"Bazooka",
+              "description":"Howdy!",
+              "rarity":1,
+              "power":875,
+              "firing_rate":485,
+              "blast_radius":300,
+              "bullet_speed":295,
+              "weapon_bullets":3,
+              "bullets_max":6
+      },
+
+
+      {
+          "id":5830,
+              "name": "M14A1-B",
+              "price_c": 8300,
+              "price_p": 20000,
+              "type":"Rifle",
+              "description":"Military-grade power right here",
+              "power":378,
+              "firing_rate":950,
+      		"acurracy":830,
+              "reload_speed":500,
+              "weapon_bullets":50,
+              "bullets_max":100,
+              "rarity":1
+      },
+
+
+      {
+     "id":5151,
+         "name": "Rocker Boots",
+         "price_c": -1,
+         "price_p": 13300,
+         "type":"Shoes",
+         "description":"Ready for some Chop Suey",
+         "rarity":1,
+         "tank":60,
+         "move_speed":0.015
+ },
+
+
+
+ {
+     "id":5152,
+         "name": "Mini Head Fan",
+         "price_c": -1,
+         "price_p": 4700,
+         "type":"Accesories",
+         "description":"Those small personal fans that never seem to do the job",
+         "rarity":1,
+         "shotgun_bullets":9,
+         "sniper_bullets":9
+ },
+
+
+
+ {
+     "id":5153,
+         "name": "LMG-460",
+         "price_c": 9800,
+         "price_p": -1,
+         "type":"Rifle",
+         "description":"Your standard long machine gun",
+         "rarity":1,
+         "power":348,
+         "firing_rate":1000,
+     "acurracy":865,
+         "reload_speed":500,
+         "weapon_bullets":40,
+         "bullets_max":80
+ },
+
+
+
+ {
+     "id":5154,
+         "name": "Sticker Hands",
+         "price_c": -1,
+         "price_p": 6700,
+         "type":"Hands",
+         "description":"What's up with the stickers?",
+         "rarity":1,
+         "tank":60,
+         "move_speed":0.015
+ },
+
+
+
+ {
+     "id":5155,
+         "name": "Sugary Sweet Pack",
+         "price_c": -1,
+         "price_p": 4700,
+         "type":"Accesories",
+         "description":"Sweet sugary candy inside",
+         "rarity":1,
+         "bazooka_bullets":9,
+         "gatling_bullets":150
+ }
 
 
 

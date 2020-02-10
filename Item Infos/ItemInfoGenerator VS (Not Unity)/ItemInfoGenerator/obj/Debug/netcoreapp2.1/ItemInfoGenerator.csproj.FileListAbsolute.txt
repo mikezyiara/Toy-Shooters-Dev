@@ -20,3 +20,14 @@ D:\Programming\ToyShooters\Item Infos\ItemInfoGenerator VS (Not Unity)\ItemInfoG
 D:\Programming\ToyShooters\Item Infos\ItemInfoGenerator VS (Not Unity)\ItemInfoGenerator\obj\Debug\netcoreapp2.1\ItemInfoGenerator.AssemblyInfo.cs
 D:\Programming\ToyShooters\Item Infos\ItemInfoGenerator VS (Not Unity)\ItemInfoGenerator\obj\Debug\netcoreapp2.1\ItemInfoGenerator.dll
 D:\Programming\ToyShooters\Item Infos\ItemInfoGenerator VS (Not Unity)\ItemInfoGenerator\obj\Debug\netcoreapp2.1\ItemInfoGenerator.pdb
+D:\Programming\Toy-Shooters-Dev\Item Infos\ItemInfoGenerator VS (Not Unity)\ItemInfoGenerator\bin\Debug\netcoreapp2.1\ItemInfoGenerator.deps.json
+D:\Programming\Toy-Shooters-Dev\Item Infos\ItemInfoGenerator VS (Not Unity)\ItemInfoGenerator\bin\Debug\netcoreapp2.1\ItemInfoGenerator.runtimeconfig.json
+D:\Programming\Toy-Shooters-Dev\Item Infos\ItemInfoGenerator VS (Not Unity)\ItemInfoGenerator\bin\Debug\netcoreapp2.1\ItemInfoGenerator.runtimeconfig.dev.json
+D:\Programming\Toy-Shooters-Dev\Item Infos\ItemInfoGenerator VS (Not Unity)\ItemInfoGenerator\bin\Debug\netcoreapp2.1\ItemInfoGenerator.dll
+D:\Programming\Toy-Shooters-Dev\Item Infos\ItemInfoGenerator VS (Not Unity)\ItemInfoGenerator\bin\Debug\netcoreapp2.1\ItemInfoGenerator.pdb
+D:\Programming\Toy-Shooters-Dev\Item Infos\ItemInfoGenerator VS (Not Unity)\ItemInfoGenerator\obj\Debug\netcoreapp2.1\ItemInfoGenerator.csprojAssemblyReference.cache
+D:\Programming\Toy-Shooters-Dev\Item Infos\ItemInfoGenerator VS (Not Unity)\ItemInfoGenerator\obj\Debug\netcoreapp2.1\ItemInfoGenerator.csproj.CoreCompileInputs.cache
+D:\Programming\Toy-Shooters-Dev\Item Infos\ItemInfoGenerator VS (Not Unity)\ItemInfoGenerator\obj\Debug\netcoreapp2.1\ItemInfoGenerator.AssemblyInfoInputs.cache
+D:\Programming\Toy-Shooters-Dev\Item Infos\ItemInfoGenerator VS (Not Unity)\ItemInfoGenerator\obj\Debug\netcoreapp2.1\ItemInfoGenerator.AssemblyInfo.cs
+D:\Programming\Toy-Shooters-Dev\Item Infos\ItemInfoGenerator VS (Not Unity)\ItemInfoGenerator\obj\Debug\netcoreapp2.1\ItemInfoGenerator.dll
+D:\Programming\Toy-Shooters-Dev\Item Infos\ItemInfoGenerator VS (Not Unity)\ItemInfoGenerator\obj\Debug\netcoreapp2.1\ItemInfoGenerator.pdb
