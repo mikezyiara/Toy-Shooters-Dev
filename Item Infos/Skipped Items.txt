@@ -1,3 +1,6 @@
 ID: 5082 - Drum set Diorama
 ID: 5108 - Cube pack
 ID: 5119 - Knox Grey pack
+ID: 5168 - Pandora pack
+ID: 5183 - Naomi Pack
+ID: 5185 - Clock Diorama

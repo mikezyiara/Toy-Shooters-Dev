@@ -1437,10 +1437,10 @@
 
 {
     "id":5091,
-        "name": "Espionage G",
-        "price_c": 10000,
+        "name": "Espionage-G",
+        "price_c": 9800,
         "price_p": 30000,
-        "type":"Rifle",
+        "type":"Shotgun",
         "description":"Both shiny and impressively powerful",
         "power":800,
 		"firing_rate":475,
@@ -2547,7 +2547,650 @@
          "rarity":1,
          "bazooka_bullets":9,
          "gatling_bullets":150
- }
+ },
+
+
+
+
+   {
+       "id":5158,
+           "name": "Pipe Trendy Accessory",
+           "price_c": -1,
+           "price_p": 4700,
+           "type":"Accesories",
+           "description":"Why is there a pipe on my head?",
+           "rarity":1,
+           "shotgun_bullets":9,
+           "sniper_bullets":9
+   },
+
+
+
+   {
+       "id":5159,
+           "name": "Brown Beanie",
+           "price_c": -1,
+           "price_p": 6700,
+           "type":"Hair",
+           "description":"Hmm, I think I had a blue one as well",
+           "rarity":1,
+           "bullet_armor":0.05,
+           "explosion_armor":0.06
+   },
+
+
+
+   {
+       "id":5160,
+           "name": "Used Pot",
+           "price_c": -1,
+           "price_p": 6700,
+           "type":"Hair",
+           "description":"Used to cook pasta, but it looks a little rusty",
+           "rarity":1,
+           "bullet_armor":0.05,
+           "explosion_armor":0.06
+   },
+
+
+
+   {
+       "id":5161,
+           "name": "Silver Halloween Hammer",
+           "price_c": 10000,
+           "price_p": 30000,
+           "type":"Rifle",
+           "description":"Random Description",
+           "rarity":1,
+           "power":800,
+           "range":720,
+           "run_speed":700,
+           "secondary_power":2000
+   },
+
+
+
+   {
+       "id":5162,
+           "name": "Brown Western Shirt",
+           "price_c": -1,
+           "price_p": 13200,
+           "type":"Top",
+           "description":"Gon' take my horse to the old town road and ride 'til I can't no more",
+           "rarity":1,
+           "tank":240,
+           "move_speed":0.06
+   },
+
+
+
+   {
+       "id":5163,
+           "name": "Leopard Garment",
+           "price_c": 16700,
+           "price_p": -1,
+           "type":"Top",
+           "description":"The bells sing when the kitty jumps",
+           "rarity":1,
+           "tank":240,
+           "move_speed":0.06
+   },
+
+
+
+   {
+       "id":5165,
+           "name": "Princess' Braids",
+           "price_c": 9700,
+           "price_p": -1,
+           "type":"Hair",
+           "description":"The longest hair of the prettiest princess",
+           "rarity":1,
+           "bullet_armor":0.05,
+           "explosion_armor":0.06
+   },
+
+
+
+   {
+       "id":5166,
+           "name": "New Year's Celebratory Pants",
+           "price_c": 16700,
+           "price_p": -1,
+           "type":"Pants",
+           "description":"3 .. 2 .. 1 HAPPY NEW YEAR",
+           "rarity":1,
+           "tank":160,
+           "move_speed":0.04
+   },
+
+
+
+   {
+       "id":5167,
+           "name": "Stay-in Blouse",
+           "price_c": -1,
+           "price_p": 16700,
+           "type":"Top",
+           "description":"PJs all the way",
+           "rarity":1,
+           "tank":240,
+           "move_speed":160
+   },
+
+
+
+
+   {
+       "id":5169,
+           "name": "Rocker Mohawk",
+           "price_c": -1,
+           "price_p": 7800,
+           "type":"Hair",
+           "description":"Rock on!",
+           "rarity":1,
+           "bullet_armor":0.05,
+           "explosion_armor":0.06
+   },
+
+
+
+   {
+       "id":5170,
+           "name": "Pink Pluvia Coat",
+           "price_c": -1,
+           "price_p": 16700,
+           "type":"Top",
+           "description":"It's raining outside! Grab your pink boots as well and let's go",
+           "rarity":1,
+           "tank":240,
+           "move_speed":0.06
+   },
+
+
+
+   {
+       "id":5171,
+           "name": "Sturdy Hands",
+           "price_c": -1,
+           "price_p": 5600,
+           "type":"Hands",
+           "description":"Strong and sturdy",
+           "rarity":1,
+           "tank":60,
+           "move_speed":0.015
+   },
+
+
+
+   {
+       "id":5172,
+           "name": "Red Lego Hands",
+           "price_c": -1,
+           "price_p": 5600,
+           "type":"Hands",
+           "description":"Don't step on these",
+           "rarity":1,
+           "tank":60,
+           "move_speed":0.015
+   },
+
+
+
+   {
+       "id":5173,
+           "name": "Pacifist Boots",
+           "price_c": -1,
+           "price_p": 6700,
+           "type":"Shoes",
+           "description":"Peace y'all",
+           "rarity":1,
+           "tank":60,
+           "move_speed":0.015
+   },
+
+
+
+   {
+       "id":5174,
+           "name": "Baker's Destructor",
+           "price_c": 9800,
+           "price_p": -1,
+           "type":"Shotgun",
+           "description":"Don't make the baker angry, else you'll die",
+           "rarity":1,
+           "power":900,
+           "firing_rate":425,
+           "acurracy":560,
+           "reload_speed":475,
+           "weapon_bullets":3,
+           "bullets_max":6,
+           "rarity":1
+   },
+
+
+
+   {
+       "id":5175,
+           "name": "90s Converse",
+           "price_c": -1,
+           "price_p": 19800,
+           "type":"Shoes",
+           "description":"Ugly converse from the 90s era that we all despise",
+           "rarity":1,
+           "tank":60,
+           "move_speed":0.015
+   },
+
+
+
+   {
+       "id":5176,
+           "name": "Kai's MetGala Shoes",
+           "price_c": -1,
+           "price_p": 13200,
+           "type":"Shoes",
+           "description":"Suitable for a fashion show",
+           "rarity":1,
+           "tank":60,
+           "move_speed":0.015
+
+   },
+
+
+
+   {
+       "id":5177,
+           "name": "White Lego Parts",
+           "price_c": -1,
+           "price_p": 19800,
+           "type":"Shoes",
+           "description":"Sexiest lego pieces",
+           "rarity":1,
+           "tank":60,
+           "move_speed":0.015
+   },
+
+
+
+   {
+       "id":5178,
+           "name": "Grandpa's Stache",
+           "price_c": -1,
+           "price_p": 9800,
+           "type":"Accesories",
+           "description":"Grandpa's fluffy stache",
+           "rarity":1,
+           "shotgun_bullets":9,
+           "sniper_bullets":9
+   },
+
+
+
+   {
+       "id":5179,
+           "name": "Shaten-dyed Ponytails",
+           "price_c": -1,
+           "price_p": 9800,
+           "type":"Hair",
+           "description":"This color looks good on you, Naomi",
+           "rarity":1,
+           "bullet_armor":0.05,
+           "explosion_armor":0.06
+   },
+
+
+
+   {
+       "id":5180,
+           "name": "Pound",
+           "price_c": -1,
+           "price_p": 31200,
+           "rarity":1,
+           "type":"Bazooka",
+           "description":"Destroy your enemies",
+           "power":832,
+           "firing_rate":400,
+           "blast_radius":330,
+           "bullet_speed":325,
+           "weapon_bullets":3,
+           "bullets_max":6
+   },
+
+
+
+   {
+       "id":5181,
+           "name": "Clown's Pants",
+           "price_c": -1,
+           "price_p": 16700,
+           "type":"Pants",
+           "description":"Only a clown would wear such outrageous pants",
+           "rarity":1,
+           "tank":160,
+           "move_speed":0.04
+   },
+
+
+
+   {
+       "id":5182,
+           "name": "Greedy Look",
+           "price_c": -1,
+           "price_p": 9800,
+           "type":"Face",
+           "description":"Wants everything",
+           "rarity":1,
+           "bullet_armor":0.05,
+           "explosion_armor":0.06
+   },
+
+
+
+   {
+       "id":5184,
+           "name": "Doll Hair",
+           "price_c": 6700,
+           "price_p": -1,
+           "type":"Hair",
+           "description":"Looking all dolly",
+           "rarity":1,
+           "bullet_armor":0.05,
+           "explosion_armor":0.06
+   },
+
+
+
+
+   {
+       "id":5186,
+           "name": "Winter Beanie",
+           "price_c": -1,
+           "price_p": 9800,
+           "type":"Hair",
+           "description":"Great for cold weather",
+           "rarity":1,
+           "bullet_armor":0.05,
+           "explosion_armor":0.06
+   },
+
+
+
+   {
+       "id":5187,
+           "name": "Home Keys",
+           "price_c": -1,
+           "price_p": 5600,
+           "type":"Accesories",
+           "description":"Crap! Did I forget my keys somewhere?",
+           "rarity":1,
+           "grenades_bullets":9,
+           "rifle_bullets":60
+   },
+
+
+
+   {
+       "id":5188,
+           "name": "Joker's Lego Top",
+           "price_c": -1,
+           "price_p": 27300,
+           "type":"Top",
+           "description":"Charming and deadly at the same time",
+           "rarity":1,
+           "tank":240,
+           "move_speed":0.06
+   },
+
+
+
+   {
+       "id":5189,
+           "name": "Angry Western Face",
+           "price_c": 6700,
+           "price_p": -1,
+           "type":"Face",
+           "description":"Woah there, Kai, what's wrong with you?",
+           "rarity":1,
+           "bullet_armor":0.05,
+           "explosion_armor":0.06
+   },
+
+
+
+   {
+       "id":5190,
+           "name": "Roswaal's Stockings",
+           "price_c": 16600,
+           "price_p": -1,
+           "type":"Pants",
+           "description":"Great stockings from Roswaal's wardrobe",
+           "rarity":1,
+           "tank":160,
+           "move_speed":0.04
+   },
+
+
+
+   {
+       "id":5191,
+           "name": "Ninja Mask",
+           "price_c": -1,
+           "price_p": 5600,
+           "type":"Accesories",
+           "description":"Swift and steady breath",
+           "rarity":1,
+           "shotgun_bullets":9,
+           "sniper_bullets":9
+   },
+
+
+
+   {
+       "id":5192,
+           "name": "Red Punk Top",
+           "price_c": -1,
+           "price_p": 16700,
+           "type":"Top",
+           "description":"Really edgy thing to wear in the club",
+           "rarity":1,
+           "tank":240,
+           "move_speed":0.06
+   },
+
+
+
+   {
+       "id":5193,
+           "name": "Foodie Face",
+           "price_c": 6700,
+           "price_p": -1,
+           "type":"Face",
+           "description":"This is what my face looks like when I see the waiter coming with the food",
+           "rarity":1,
+           "bullet_armor":0.05,
+           "explosion_armor":0.06
+   },
+
+
+
+   {
+       "id":5194,
+           "name": "Espionage-S",
+           "price_c": 9800,
+           "price_p": -1,
+           "type":"Shotgun",
+           "description":"Both shiny and impressively powerful",
+           "power":800,
+       "firing_rate":475,
+       "acurracy":480,
+           "reload_speed":325,
+           "weapon_bullets":3,
+           "bullets_max":6,
+           "rarity":1
+   },
+
+
+
+   {
+       "id":5195,
+           "name": "HERE Sign",
+           "price_c": 9800,
+           "price_p": -1,
+           "type":"Accesories",
+           "description":"This sign screams \"I'M HERE, SHOOT ME!\"",
+           "rarity":1,
+           "shotgun_bullets":9,
+           "sniper_bullets":9
+   },
+
+
+
+   {
+       "id":5196,
+           "name": "Japanese Bazooka",
+           "price_c": -1,
+           "price_p": 46000,
+           "type":"Bazooka",
+           "description":"Eastern weaponry",
+           "rarity":1,
+           "power":820,
+           "firing_rate":385,
+           "blast_radius":330,
+           "bullet_speed":370,
+           "weapon_bullets":3,
+           "bullets_max":6
+   },
+
+
+
+   {
+       "id":5197,
+           "name": "Villager's Staff",
+           "price_c": 9800,
+           "price_p": -1,
+           "type":"Melee",
+           "description":"The staff of some random villager",
+           "rarity":1,
+           "power":840,
+       		"range":720,
+       		"run_speed":680,
+       		"secondary_power":2100
+   },
+
+
+
+   {
+       "id":5198,
+           "name": "Harley's Leggings",
+           "price_c": -1,
+           "price_p": 16700,
+           "type":"Pants",
+           "description":"Black, then white, then black again. You never know which mood she's in",
+           "rarity":1,
+           "tank":160,
+           "move_speed":0.04
+   },
+
+
+
+   {
+       "id":5199,
+           "name": "Bikergirl Hands",
+           "price_c": -1,
+           "price_p": 6700,
+           "type":"Hands",
+           "description":"Need protection when you go for a ride",
+           "rarity":1,
+           "tank":60,
+           "move_speed":0.015
+   },
+
+
+
+   {
+       "id":5200,
+           "name": "Red Stockings",
+           "price_c": -1,
+           "price_p": 13200,
+           "type":"Pants",
+           "description":"For a romantic night with my boyfriend",
+           "rarity":1,
+           "tank":160,
+           "move_speed":0.04
+   },
+
+
+
+   {
+       "id":5201,
+           "name": "Bad Witch's Hat",
+           "price_c": 6700,
+           "price_p": -1,
+           "type":"Hair",
+           "description":"We know who's been naughty",
+           "rarity":1,
+           "bullet_armor":0.05,
+           "explosion_armor":0.06
+   },
+
+
+
+   {
+       "id":5202,
+           "name": "Multivitamin Pack",
+           "price_c": 16500,
+           "price_p": -1,
+           "type":"Accesories",
+           "description":"They keep you nice and healthy",
+           "rarity":3,
+           "bazooka_bullets":9,
+           "gatling_bullets":150
+   },
+
+
+
+   {
+       "id":5203,
+           "name": "Black Steampunk Razer",
+           "price_c": 9800,
+           "price_p": -1,
+           "type":"Melee",
+           "description":"Woah, watch where you wave that!",
+           "rarity":1,
+           "power":800,
+           "range":720,
+           "run_speed":700,
+           "secondary_power":2000
+   },
+
+
+
+   {
+       "id":5204,
+           "name": "Red Kage Shinobi",
+           "price_c": 14600,
+           "price_p": -1,
+           "type":"Set",
+           "description":"The Hero of the village",
+           "rarity":1,
+           "tank":520,
+           "move_speed":0.12
+   },
+
+
+
+   {
+       "id":5205,
+           "name": "Lovely Glasses",
+           "price_c": -1,
+           "price_p": 5600,
+           "type":"Accesories",
+           "description":"Cutest glasses you could ever find",
+           "rarity":1,
+           "shotgun_bullets":9,
+           "sniper_bullets":9
+   }
 
 
 

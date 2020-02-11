@@ -1,52 +1,4 @@
   {
-      "id":5151,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5152,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5153,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
-      "id":5154,
-          "name": "RandomName",
-          "price_c": 10000,
-          "price_p": 30000,
-          "type":"Rifle",
-          "description":"Random Description",
-          "rarity":1
-  },
-
-
-
-  {
       "id":5155,
           "name": "RandomName",
           "price_c": 10000,
@@ -228,6 +180,426 @@
 
   {
       "id":5170,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5171,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5172,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5173,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5174,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5175,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5176,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5177,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5178,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5179,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5180,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5181,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5182,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5183,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5184,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5185,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5186,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5187,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5188,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5189,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5190,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5191,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5192,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5193,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5194,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5195,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5196,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5197,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5198,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5199,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5200,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5201,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5202,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5203,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5204,
+          "name": "RandomName",
+          "price_c": 10000,
+          "price_p": 30000,
+          "type":"Rifle",
+          "description":"Random Description",
+          "rarity":1
+  },
+
+
+
+  {
+      "id":5205,
           "name": "RandomName",
           "price_c": 10000,
           "price_p": 30000,
